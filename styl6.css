@@ -1,0 +1,51 @@
+body {
+  font-family: Georgia;
+}
+
+#b1,
+#b2 {
+  background-color: #3cb371;
+  color: #fff;
+  height: 100px;
+  width: 40%;
+  float: left;
+}
+
+#b3 {
+  background-color: #3cb371;
+  height: 100px;
+  width: 20%;
+  float: left;
+}
+
+#glowny {
+  clear: both;
+}
+
+.blok {
+  background-color: #ffdab9;
+  width: 170px;
+  height: 90px;
+  margin: 5px;
+  border: 1px solid #3cb371;
+  float: left;
+}
+
+#stopka {
+  clear: both;
+  background-color: #3cb371;
+  color: #fff;
+}
+
+h6 {
+  text-align: right;
+}
+
+form {
+  padding: 30px;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
